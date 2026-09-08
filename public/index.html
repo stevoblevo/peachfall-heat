@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Peachfall saeDow heat</title>
+<style>body{font:16px/1.4 system-ui;background:#0b0c10;color:#e8e8ef;margin:2rem;max-width:720px}a{color:#9ad}table{border-collapse:collapse;width:100%}td,th{border-bottom:1px solid #333;padding:.4rem;text-align:left}.muted{opacity:.7}</style>
+<h1>saeDow · Peachfall heat</h1>
+<p class="muted">Anon click/touch friction from the public play site.</p>
+<p><a href="https://stevoblevo.github.io/peachfall/">Play Peachfall</a> · <a href="/api/heat">raw JSON</a></p>
+<table><thead><tr><th>id</th><th>heat</th><th>weight</th></tr></thead><tbody id="rows"><tr><td colspan="3">loading…</td></tr></tbody></table>
+<script>
+async function load(){const r=await fetch("/api/heat");const j=await r.json();const rows=document.getElementById("rows");
+if(!j.heats||!j.heats.length){rows.innerHTML="<tr><td colspan=3>no heat yet — go click play</td></tr>";return;}
+rows.innerHTML=j.heats.map(h=>`<tr><td><code>${h.id}</code></td><td>${h.heat_count}</td><td>${h.priority_weight.toFixed(2)}</td></tr>`).join("");}
+load();setInterval(load,5000);
+</script></html>
