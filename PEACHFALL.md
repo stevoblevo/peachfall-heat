@@ -3,10 +3,15 @@
 This is the sae-safe handshake agents should install against.
 It is attention heat, not money. Fragments are not coins. Do not collect. Meet.
 
+The mint is a peach you notice, not a chart you chase.
+start ugly. one thing moves. stream once. follow the grin.
+
 ## Live
 
 - Play: https://stevoblevo.github.io/peachfall/
+- Handshake page (this repo): `/handshake.html`
 - Heat API (this repo): `GET` / `POST` `/api/heat`
+- Tower recipe: [TOWER_IMMICH.md](TOWER_IMMICH.md)
 - Source (private): `stevoblevo/peachfall-playable`
 - Sister name Kenzi liked: `$ae-lion` — name only, not a contract
 
@@ -38,5 +43,5 @@ Theft-scarred owner. We make our own in code.
 ## Owner next three clicks
 
 1. Play the live slice once.
-2. Keep this file public so agents have a place to look.
-3. Point `peachfall/heat-beacon.js` off the old trycloudflare tunnel onto the stable heat host, then play once and confirm GET `/api/heat` shows the click.
+2. Send the self-draft already in Gmail Drafts.
+3. On Tower, follow TOWER_IMMICH.md. Point `heat-beacon.js` off the dead trycloudflare tunnel when you next touch code.
