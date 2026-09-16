@@ -15,6 +15,14 @@ Post ids:
 - Title screen: https://x.com/Stevoblevo/status/2096839641135509781
 - Kenzi @dream_dame: "this ur game?" / "Good ticker $ae-lion"
 
+## Workshop table (2026-09-13 · candidate)
+
+Not accepted. Not live. Not in-game inventory. Do not overwrite `/peachfall/source`.
+
+| id | what | url |
+| --- | --- | --- |
+| workshop-table-20260913 | Desk workshop artifact sheet. Six hero props. A16 battery is one pack. | WORKSHOP_TABLE.md |
+
 ## Already in Drive (do not re-upload the 1.1 GB tar unless needed)
 
 Folder: https://drive.google.com/drive/folders/1TEg2_lLm6LbDaeHQLcG-4ygdNQl2eSrg
