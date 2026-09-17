@@ -1,0 +1,32 @@
+{
+  "name": "Peachfall heat",
+  "short_name": "saeDow",
+  "description": "Peachfall attention heat. Not a coin. Do not collect. Meet.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b0c10",
+  "theme_color": "#1b140f",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Entice Mint",
+      "short_name": "handshake",
+      "url": "/handshake.html"
+    },
+    {
+      "name": "Play the dream",
+      "short_name": "play",
+      "url": "https://stevoblevo.github.io/peachfall/"
+    }
+  ]
+}
