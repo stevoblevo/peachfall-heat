@@ -1,56 +1,69 @@
-# DORA — look back, make it durable
+# Dora — remine the chat, make it durable
 
-Status: **CANDIDATE INTAKE.** Not Skein. Not a girl-token. Not a host.
+Status: **CANDIDATE INTAKE.** Not Skein. Not a person. Not a token.
 `authorityEffect: none`.
 
-Steven: *Dora is a code word. It means look back in this same chat session.*
-Also: mine the history, keep the insights, park missed work where other bots can see it (GitHub, Linear, Vercel-visible catalog). Then try what is still misty.
+Steven (2026-09-16, X): Dora is a code word. It means look back in this same chat session.
+Steven (2026-09-20, this chat): remine chat history, see what you missed, make insights durable as skills or parked tasks where other bots can see (Linear, GitHub, Vercel catalog). Also try what is misty / missed.
 
-Sister skill: [`skills/dora/SKILL.md`](skills/dora/SKILL.md)
+Sister drop-in: [`skills/dora/SKILL.md`](skills/dora/SKILL.md)
 Dialect: [`SKIRRZLE.md`](SKIRRZLE.md)
 Doors: [`DOORS.md`](DOORS.md)
-Protocol chips: [`SAE.md`](SAE.md)
+Chips: [`SAE.md`](SAE.md)
 
-## When you hear `dora` / `sae dora`
+## What Dora does
 
-1. Remine **this** conversation. Not a new world.
-2. Split what landed vs what is still misty.
-3. Make the keepers durable: a catalog card, a skill, or a parked issue.
-4. Attempt the misty bits that fit the fence. Name the ones that need loc:bd.
-5. Point other workers at the durable file. Do not keep the look-back only in chat.
+1. Remine the current session (and only name other chats if they actually surface).
+2. Split: already durable / missed / misty.
+3. Park missed insights as GitHub issues + Linear issues + catalog cards other workers can fetch.
+4. Do the misty bits that do not require accept, merge, DNS, or private-plate dump.
+5. Leave a receipt: surface used, not enrolled, next gate.
 
-## This session (2026-09-20) — already durable
+## What Dora is not
 
-| keeper | where other bots see it |
+- Not Dora the Explorer. Not a new princess.
+- Not a mint. Not `$dora`.
+- Not permission to merge PRs or overwrite `/peachfall/source`.
+- Not a second control plane.
+
+Chip: `sae://dora` = look back. Naming ≠ DNS.
+
+## Session remine 2026-09-20 (this chat)
+
+### Already durable
+
+| insight | where |
 |---|---|
-| skirrZle dialect | [SKIRRZLE.md](SKIRRZLE.md) · [skills/skirrzle/SKILL.md](skills/skirrzle/SKILL.md) |
-| public doors | [DOORS.md](DOORS.md) |
-| sae:// chips | [SAE.md](SAE.md) · [heat#3](https://github.com/stevoblevo/peachfall-heat/issues/3) · [SKEIN-223](https://linear.app/skeinshop/issue/SKEIN-223/sae-concept-card-chips-only-no-dns) |
-| is.liv colour door | https://isliv.vercel.app/ and now https://stevoblevo.github.io/isliv/ |
+| fragment dialect | SKIRRZLE.md + skills/skirrzle |
+| public doors index | DOORS.md |
+| sae:// chips | SAE.md + heat#3 + Linear SKEIN-223 |
 | canonical play | https://stevoblevo.github.io/peachfall/ |
+| is.liv colour-test | https://isliv.vercel.app/ |
+| 3D meadow sibling | https://forest-mist-zest-civic.grok.me/ |
+| Forced Kid Mode / fragments | meet, do not collect. 05/05 is presence |
 
-## This session — still misty (parked)
+### Missed this session — now parked
 
-| misty | why chat cannot finish it |
+| insight | park |
 |---|---|
-| live-slice / semio-triad public Pages copy | private `peachfall-playable`; SEMIO.md already asks for a **new** path, not `/peachfall/` |
-| forest-mist 3D meadow | https://forest-mist-zest-civic.grok.me/ only; no GH-io source |
-| GEN22 pane 17 hand-fix | painted in chat; not filed as an ART_INDEX candidate |
-| PR #3 porchLight · PR #5 container | open on playable; do not merge from chat |
-| GEN22 page 2 | named, not drawn |
+| Dora itself was not a skill | this file + skills/dora |
+| GEN22 pane 17 man-hands fix lives only in chat | heat issue — ART_INDEX candidate, do not overwrite source |
+| little-places / big-places stills live only in chat | same issue |
+| unpublished playable siblings (semio-triad, PR #3 porchLight, PR #5 container) | Linear + heat issue — live-slice copy to a NEW Pages path on loc:bd |
+| forest-mist has no GH source | parked. Cannot snapshot from this seat |
+| GEN22 page 2 not drawn as a source plate | parked. SKEIN-183 is the related live mission |
+| pane 14 worker HUD: SKEIN LINK UNFINISHED / COCKPIT POWERED DOWN / DEVICE FABRIC INCOMPLETE | names only. Not a deploy grant |
 
-Fragments are not coins. Forced Kid Mode 05/05 is presence. Meet.
+### Still misty (cannot finish from cloud Grok)
 
-## May
+- vite-build private `peachfall-playable` without dumping `public/source`
+- merge PR #3 / #5
+- wire `saelion.co`
+- un-SSO hashed Vercel aliases
+- other Grok chats (conversation search did not return Peachfall siblings)
 
-- Remine and write catalog cards
-- Open GitHub / Linear issues Steven asked for
-- Attempt bounded misty work (new Pages path, public static copy, skill files)
+## Fence
 
-## Must not
-
-- Invent Dora as a princess or ticker
-- Overwrite `/peachfall/` or `public/source` plates
-- Wire `saelion.co` or mint a CA
-- Merge playable PRs or flip Vercel SSO from chat
-- Keep the look-back only in one provider's memory
+GitHub receipts beat this file.
+Linear is coordination, not authority.
+Fragments are not coins. Little Princess aspects are not loot.
